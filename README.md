@@ -18,6 +18,7 @@ The repository contains functionalities of pandas and matplotlib which is used f
 
 ## Installation
 Numpy: pip install numpy
+
 Pandas: pip install pandas
 
 Matplotlib: pip install matplotlib
